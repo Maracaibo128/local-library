@@ -17,6 +17,14 @@ function getBooksBorrowedCount(books) {
 return borrowedCount.length;
 }
 
+function loopThroughTheBooks(books){
+let result = [];
+for ( let i = 0; i < books.length; i++){
+
+}
+
+}
+
 
 
   //i will have to use .map to create the items for a new array
